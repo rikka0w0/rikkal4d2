@@ -35,6 +35,13 @@ tar -xvzf steamcmd_linux.tar.gz
 rm steamcmd_linux.tar.gz
 ```
 
+# Use the plugin pack:
+```
+ln -s rikkal4d2/sl4d2.sh sl4d2.sh
+ln -s rikkal4d2/ul4d2.sh ul4d2.sh
+chmod +x sl4d2.sh ul4d2.sh
+```
+
 # Install or update l4d2:
 ul4d2.sh:
 ```
@@ -45,8 +52,8 @@ cd Steam
 # Install addons:
 ```
 rm -rfv Steam/l4d2/left4dead2/addons Steam/l4d2/left4dead2/cfg
-ln -s addons Steam/l4d2/left4dead2/addons
-ln -s cfg Steam/l4d2/left4dead2/cfg
+ln -s rikkal4d2/addons Steam/l4d2/left4dead2/addons
+ln -s rikkal4d2/cfg Steam/l4d2/left4dead2/cfg
 ```
 
 # Start l4d2:
