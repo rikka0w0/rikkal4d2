@@ -1,0 +1,55 @@
+// Force strict semicolon mode
+#pragma semicolon 1
+#include <sourcemod>
+#include <sdktools>
+#include <sdktools_functions>
+
+#define PLUGIN_VERSION	"1.0"
+
+public Plugin:myinfo =
+{
+	name = "[L4D2] Clip size",
+	author = "Rikka0w0",
+	description = "Set clip size!",
+	version = PLUGIN_VERSION,
+	url = "..."
+}
+
+public OnPluginStart()
+{
+	RegAdminCmd("sm_clipsize", Command_ClipSize, ADMFLAG_CHEATS, "Set clip size, sm_clipsize <size> [playerName]");
+}
+
+public Action:Command_ClipSize(client, args) {
+	decl String:arg[128];
+	if (args > 0) {
+		GetCmdArg(1, arg, sizeof(arg));
+		int newClipSize = StringToInt(arg);
+
+		int target = client;
+		if (args > 1) {
+			GetCmdArg(2, arg, sizeof(arg));
+			target = FindTarget(client, arg);
+			if (target == -1) {
+				PrintToChatAll("Cannot find player %s!", arg);
+				return Plugin_Handled;
+			}
+		}
+
+		PrintToChatAll("%N.clipSize = %d", target, newClipSize);
+		setClipSize(target, newClipSize);
+	}
+
+	return Plugin_Handled;
+}
+
+//getClipsize(client) {
+//	new gun = GetPlayerWeaponSlot(client, 0);
+//	return GetEntProp(gun, Prop_Send, "m_iClip1", 1);
+//}
+
+setClipSize(client, size) {
+	new gun = GetPlayerWeaponSlot(client, 0);
+	if (gun > -1)
+		SetEntProp(gun, Prop_Send, "m_iClip1", size, 1);
+}

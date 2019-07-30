@@ -1,0 +1,2 @@
+native FeedWatchDog();
+native ForceRestartServer();

@@ -1,0 +1,67 @@
+﻿"Phrases"
+{
+	"Witch"
+	{
+		"en"			"Witch"
+	}
+	
+	"Finally killed by"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} is finally killed by {2}"
+	}
+	
+	"Incapacitated"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} incapacitated {2}"
+	}
+	
+	"Is incapacitated"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} is incapacitated"
+	}
+	
+	"Killed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} killed {2}"
+	}
+
+	"Killed2"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} ------> {2}"
+	}
+	
+	"Headshot"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} headshot {2}"
+	}
+	
+	"Headshot2"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} -headshot-> {2}"
+	}
+	
+	"Is dead"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} is dead"
+	}
+	
+	"Suicide"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} killed himself"
+	}
+	
+	"Dropped something"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} dropped something"
+	}	
+}

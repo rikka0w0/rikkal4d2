@@ -1,0 +1,67 @@
+﻿"Phrases"
+{
+	"Witch"
+	{
+		"chi"			"Bitch"
+	}
+	
+	"Finally killed by"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"{1}最终被{2}击杀"
+	}
+	
+	"Incapacitated"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"{1}干翻了{2}"
+	}
+	
+	"Is incapacitated"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{1}被干翻了"
+	}
+	
+	"Killed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"{1}干掉了{2}"
+	}
+
+	"Killed2"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"{1} ------> {2}"
+	}
+	
+	"Headshot"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"{1}爆了{2}的头"
+	}
+	
+	"Headshot2"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"{1} -爆头-> {2}"
+	}
+	
+	"Is dead"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{1}死了"
+	}
+	
+	"Suicide"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{1}自杀了"
+	}
+	
+	"Dropped something"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{1}掉落了一些东西"
+	}	
+}

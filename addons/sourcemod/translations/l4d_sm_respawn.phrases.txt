@@ -1,0 +1,26 @@
+﻿"Phrases"
+{
+	"Usage"
+	{
+		"en"			"[SM] Usage: sm_respawn <player1> [player2] ... [playerN] - respawn all listed players"
+	}
+	"Respawned target"
+	{
+		"#format"		"{1:s}"
+		"en"			"[SM] Respawned target '{1}'"
+	}	
+	
+	"Cannot teleport"
+	{
+		"en"			"[SM] Could not teleport player after respawn"
+	}
+	
+	"Respawn Player"
+	{
+		"en"			"Respawn Dead Player"
+	}
+	
+	"Nobody is dead" {
+		"en"			"Nobody is dead!"
+	}
+}

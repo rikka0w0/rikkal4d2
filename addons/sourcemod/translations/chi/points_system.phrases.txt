@@ -1,0 +1,302 @@
+﻿"Phrases"
+{
+	"all Infected players"
+	{
+		"chi"		"所有感染者玩家"
+	}
+
+	"all Survivor players"
+	{
+		"chi"		"所有幸存者玩家"
+	}
+
+	"Game Check Fail"
+	{
+		"chi"		"This plugin only supports Left 4 Dead 2!"
+	}
+	
+	"Modules Array Failure"
+	{
+		"chi"		"Failed to initialize modules adt_array"
+	}
+
+	"Head Hunter"
+	{
+		"#format"	"{1:d}"
+		"chi"		"爆头Hunter +{1} 点"
+	}
+	
+	"Killing Spree"
+	{
+		"#format"	"{1:d}"
+		"chi"		"大量击杀僵尸 +{1} 点"
+	}
+	
+	"Incapped Survivor"
+	{
+		"#format"	"{1:d}"
+		"chi"		"放倒幸存者 +{1} 点"
+	}
+	
+	"Killed SI"
+	{
+		"#format"	"{1:d}"
+		"chi"		"击杀特感 +{1} 点"
+	}
+	
+	"Killed Survivor"
+	{
+		"#format"	"{1:d}"
+		"chi"		"杀死幸存者 +{1} 点"
+	}
+	
+	"TANK SOLO"
+	{
+		"#format"	"{1:d}"
+		"chi"		"单挑坦克! +{1} 点"
+	}
+	
+	"Killed Tank"
+	{
+		"#format"	"{1:d}"
+		"chi"		"击杀坦克 +{1} 点"
+	}
+	
+	"Killed Witch"
+	{
+		"#format"	"{1:d}"
+		"chi"		"击杀Bitch +{1} 点"
+	}
+	
+	"Crowned Witch"
+	{
+		"#format"	"{1:d}"
+		"chi"		"强暴Bitch +{1} 点"
+	}
+	
+	"Team Heal"
+	{
+		"#format"	"{1:d}"
+		"chi"		"治疗同伴 +{1} 点"
+	}
+	
+	"Team Heal Warning"
+	{
+		"#format"	"{1:d}"
+		"chi"		"不要刷点数! +{1} 电"
+	}
+	
+	"Protect"
+	{
+		"#format"	"{1:d}"
+		"chi"		"保护队友 +{1} 点"
+	}
+	
+	"Revive"
+	{
+		"#format"	"{1:d}"
+		"chi"		"救起队友 +{1} 点"
+	}
+	
+	"Ledge Revive"
+	{
+		"#format"	"{1:d}"
+		"chi"		"拉起队友 +{1} 点"
+	}
+	
+	"Defib"
+	{
+		"#format"	"{1:d}"
+		"chi"		"救活队友 +{1} 点"
+	}
+	
+	"Smoke"
+	{
+		"#format"	"{1:d}"
+		"chi"		"捆绑幸存者 +{1} 点"
+	}
+	
+	"Boom"
+	{
+		"#format"	"{1:d}"
+		"chi"		"呕吐幸存者 +{1} 点"
+	}
+	
+	"Biled"
+	{
+		"#format"	"{1:d}"
+		"chi"		"胆汁化坦克 +{1} 点"
+	}
+	
+	"Pounce"
+	{
+		"#format"	"{1:d}"
+		"chi"		"扑倒幸存者 +{1} 点"
+	}
+	
+	"Jockey Ride"
+	{
+		"#format"	"{1:d}"
+		"chi"		"骑幸存者 +{1} 点"
+	}
+	
+	"Charge"
+	{
+		"#format"	"{1:d}"
+		"chi"		"锤幸存者 +{1} 点"
+	}
+	
+	"Charge Collateral"
+	{
+		"#format"	"{1:d}"
+		"chi"		"撞飞幸存者 +{1} 点"
+	}
+	
+	"Burn Tank"
+	{
+		"#format"	"{1:d}"
+		"chi"		"燃烧坦克 +{1} 点"
+	}
+	
+	"Burn Witch"
+	{
+		"#format"	"{1:d}"
+		"chi"		"燃烧Bitch +{1} 点"
+	}
+	
+	"Spit Damage"
+	{
+		"#format"	"{1:d}"
+		"chi"		"痰液伤害 +{1} 点"
+	}
+	
+	"Cloud Damage"
+	{
+		"#format"	"{1:d}"
+		"chi"		"被舌头的烟熏 +{1} 点"
+	}
+	
+	"Damage"
+	{
+		"#format"	"{1:d}"
+		"chi"		"多重伤害 +{1} 点"
+	}
+	
+	"Your Points"
+	{
+		"#format"	"{1:d}"
+		"chi"		"你有 {1} 点"
+	}
+	
+	"Usage sm_repeatbuy"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1} 用法: sm_repeatbuy"
+	}
+	
+	"Insufficient Funds"
+	{
+		"chi"		"点数不足!"
+	}
+	
+	"Item Disabled"
+	{
+		"chi"		"物品被禁用"
+	}
+	
+	"Primary Warning"
+	{
+		"chi"		"你必须有主武器才能填充子弹!"
+	}
+	
+	"Usage sm_heal"
+	{
+		"chi"		"用法: sm_heal <target>"
+	}
+	
+	"Give Health"
+	{
+		"#format"	"{1:s}"
+		"chi"		"治疗了 {1}"
+	}
+	
+	"Usage sm_givepoints"
+	{
+		"chi"		"用法: sm_givepoints <#userid|用户名> [点数]"
+	}
+	
+	"Give Points"
+	{
+		"#format"	"{1:d},{2:s}"
+		"chi"		"{1} 给予了 {2} 点"
+	}
+	
+	"Give Null"
+	{
+		"chi"	"数量必须非零!"
+	}	
+	
+	"Usage sm_setpoints"
+	{
+		"#format"	"{1:s}"
+		"chi"		"用法: sm_setpoints <#userid|用户名> [点数]"
+	}
+	
+	"Set Points"
+	{
+		"#format"	"{1:s},{2:d}"
+		"chi"		"{1} 的点数被设置为 {2}"
+	}
+	
+	"Tank Limit"
+	{
+		"chi"		"达到坦克的数量限制咯"
+	}
+	
+	"Witch Limit"
+	{
+		"chi"		"达到Bitch的数量限制咯"
+	}
+	
+	"Points Left"
+	{
+		"#format"	"{1:d}"
+		"chi"		"剩余 {1} 点"
+	}
+	
+	"Cost"
+	{
+		"#format"	"{1:d}"
+		"chi"		"消耗: {1}"
+	}
+
+	"Spawn Failed"
+	{
+		"chi"		"无法重生!"
+	}
+	
+	"Modules"
+	{
+		"chi"		"Current modules loaded into Points System:"
+	}
+	
+	"End..."
+	{
+		"chi"		"End..."
+	}
+	
+	"Module: Warning 1"
+	{
+		"chi"		"[PS] Module of same name already registered!"
+	}
+	
+	"Module: Error 1"
+	{
+		"chi"		"[PS] Incompatible version of Points System is loaded, please update!"
+	}
+	
+	"Module: Error 2"
+	{
+		"chi"		"[PS] Points System natives were not found!"
+	}
+}	

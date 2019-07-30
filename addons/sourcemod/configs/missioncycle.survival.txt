@@ -1,0 +1,24 @@
+// Do not delete this line! format: <Mission Name(see txt files in missions.cache folder)>
+L4D2C1
+L4D2C2
+L4D2C3
+L4D2C4
+L4D2C5
+L4D2C6
+L4D2C7
+L4D2C8
+// 3-rd maps(Do not delete/modify this line!)
+BloodTracks
+CrashBandicootTheReturn
+darkwood
+DevilMountain
+FarewellChenming
+tthreehdr
+JourneyToSplashMountain
+Diescraper36
+TanksPlayground
+TheBloodyMoors
+YamaMSE
+NeverEndingWar
+ravenholmwar2
+urbanflight

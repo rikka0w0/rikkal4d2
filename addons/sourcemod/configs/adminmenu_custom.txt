@@ -1,0 +1,48 @@
+// Custom admin menu commands.
+// For more information:
+//
+// http://wiki.alliedmods.net/Custom_Admin_Menu_%28SourceMod%29
+//
+// Note: This file must be in Valve KeyValues format (no multiline comments)
+//
+
+"Commands"
+{
+    "PlayerCommands"
+    {
+        "Respawn Survivor"
+        {
+            "cmd"        "sm_respawn #1"
+            "admin"        "sm_kick"
+            "execute"    "player"
+            "1"
+            {
+                "type"        "player"
+                "method"    "name"
+                "title"        "Player:"
+            }
+        }
+    }
+    "ServerCommands"
+    {
+        "Change Difficulty"
+        {
+            "cmd"	"z_difficulty #1"
+            "admin"	"sm_generic"
+            "execute"	"server"
+            "1"
+            {
+                "type"	"list"
+                "title" "New Difficulty:"
+                "1"	"easy"
+                "1."	"Easy"
+                "2"     "normal"
+                "2."    "Normal"
+                "3"     "hard"
+                "3."    "Advanced"
+                "4"     "impossible"
+                "4."    "Expert"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"Rikka Menu"
+	{
+		"chi"			"六花家的妙妙屋"
+	}
+	"Melee Enlarge"
+	{
+		"chi"			"超大号近战"
+	}
+	"Melee Enlarge Desc"
+	{
+		"chi"			"大号近战武器可以击飞坦克!"
+	}
+	"No melee weapon"
+	{
+		"chi"			"你没有近战武器!"
+	}
+	"Respawn"
+	{
+		"chi"			"复活"
+	}	
+	"You are not dead"
+	{
+		"chi"			"你还没死!"	
+	}
+}

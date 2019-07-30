@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"Rikka Menu"
+	{
+		"en"			"Rikka Menu"
+	}
+	"Melee Enlarge"
+	{
+		"en"			"Melee Enlarge"
+	}
+	"Melee Enlarge Desc"
+	{
+		"en"			"Large melee weapon can knock back Tank!"
+	}
+	"No melee weapon"
+	{
+		"en"			"You don`t have a melee weapon!"
+	}
+	"Respawn"
+	{
+		"en"			"Respawn"
+	}	
+	"You are not dead"
+	{
+		"en"			"You are not dead!"	
+	}
+}

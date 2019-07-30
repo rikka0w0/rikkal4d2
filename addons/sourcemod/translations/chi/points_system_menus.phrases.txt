@@ -1,0 +1,387 @@
+﻿"Phrases"
+{
+	"Weapons"
+	{
+		"chi"	"武器"
+	}
+
+	"Upgrades"
+	{
+		"chi"	"升级"
+	}	
+
+	"Health"
+	{
+		"chi"	"生命"
+	}	
+
+	"Heal"
+	{
+		"chi"	"治疗"
+	}	
+
+	"Suicide"
+	{
+		"chi"	"自杀"
+	}	
+
+	"Boomer"
+	{
+		"chi"	"胖子"
+	}	
+
+	"Spitter"
+	{
+		"chi"	"口水"
+	}	
+
+	"Smoker"
+	{
+		"chi"	"舌头"
+	}	
+
+	"Hunter"
+	{
+		"chi"	"跳跳"
+	}	
+
+	"Charger"
+	{
+		"chi"	"牛"
+	}	
+
+	"Jockey"
+	{
+		"chi"	"猴子"
+	}	
+
+	"Tank"
+	{
+		"chi"	"坦克"
+	}	
+
+	"Witch Bride"
+	{
+		"chi"	"Bitch新娘"
+	}	
+
+	"Witch"
+	{
+		"chi"	"Bitch"
+	}	
+
+	"Horde"
+	{
+		"chi"	"一波尸潮"
+	}
+	
+	"Mob"
+	{
+		"chi"	"小僵尸"
+	}	
+
+	"Uncommon Mob"
+	{
+		"chi"	"稀有僵尸"
+	}	
+
+	"Melee"
+	{
+		"chi"	"近战武器"
+	}	
+
+	"Snipers"
+	{
+		"chi"	"狙"
+	}	
+
+	"Rifles"
+	{
+		"chi"	"步枪"
+	}	
+
+	"Shotguns"
+	{
+		"chi"	"散弹枪"
+	}	
+
+	"SMGs"
+	{
+		"chi"	"冲锋枪"
+	}	
+
+	"Throwables"
+	{
+		"chi"	"雷"
+	}	
+
+	"Misc"
+	{
+		"chi"	"其他物品"
+	}	
+
+	"cricket_bat"
+	{
+		"chi"	"板球棒"
+	}	
+
+	"crowbar"
+	{
+		"chi"	"撬棍(物理学圣剑)"
+	}	
+
+	"electric_guitar"
+	{
+		"chi"	"吉他"
+	}
+
+	"fireaxe"
+	{
+		"chi"	"消防斧"
+	}	
+
+	"katana"
+	{
+		"chi"	"日本武士刀"
+	}	
+
+	"knife"
+	{
+		"chi"	"小刀"
+	}
+
+	"hunting_knife"
+	{
+		"chi"	"猎刀"
+	}
+
+	"riotshield"
+	{
+		"chi"	"防爆盾"
+	}	
+
+	"baseball_bat"
+	{
+		"chi"	"棒球棍"
+	}	
+
+	"frying_pan"
+	{
+		"chi"	"平底锅"
+	}	
+
+	"golfclub"
+	{
+		"chi"	"高尔夫球棒"
+	}	
+
+	"machete"
+	{
+		"chi"	"砍刀"
+	}	
+
+	"tonfa"
+	{
+		"chi"	"警棍"
+	}	
+
+	"Hunting Rifle"
+	{
+		"chi"	"猎枪"
+	}	
+
+	"Military Sniper"
+	{
+		"chi"	"军用狙击步枪"
+	}	
+
+	"AWP"
+	{
+		"chi"	"AWP"
+	}	
+
+	"Scout Sniper"
+	{
+		"chi"	"鸟狙"
+	}	
+
+	"M60"
+	{
+		"chi"	"M60"
+	}	
+
+	"M16"
+	{
+		"chi"	"M16"
+	}	
+
+	"SCAR"
+	{
+		"chi"	"SCAR"
+	}	
+
+	"AK-47"
+	{
+		"chi"	"AK-47"
+	}	
+
+	"SG552"
+	{
+		"chi"	"SG552"
+	}
+
+	"Auto Shotgun"
+	{
+		"chi"	"连喷"
+	}
+
+	"Chrome Shotgun"
+	{
+		"chi"	"单喷"
+	}
+
+	"Spas Shotgun"
+	{
+		"chi"	"铁质连喷"
+	}
+
+	"Pump Shotgun"
+	{
+		"chi"	"木喷"
+	}
+
+	"SMG"
+	{
+		"chi"	"冲锋枪"
+	}
+
+	"Silchiced SMG"
+	{
+		"chi"	"消音冲锋枪"
+	}
+
+	"MP5"
+	{
+		"chi"	"MP5"
+	}
+
+	"First Aid"
+	{
+		"chi"	"医药包"
+	}
+
+	"Defib2"
+	{
+		"chi"	"电击器"
+	}
+
+	"Pills"
+	{
+		"chi"	"止痛药"
+	}
+
+	"Adrenaline"
+	{
+		"chi"	"针管"
+	}
+
+	"Full Heal"
+	{
+		"chi"	"大保健"
+	}
+
+	"Molotov"
+	{
+		"chi"	"火瓶"
+	}
+
+	"Pipe Bomb"
+	{
+		"chi"	"铁管炸弹"
+	}
+
+	"Bile Bomb"
+	{
+		"chi"	"胆汁炸弹"
+	}
+
+	"Grenade Launcher"
+	{
+		"chi"	"榴弹发射器"
+	}
+
+	"Pistol"
+	{
+		"chi"	"手枪"
+	}
+
+	"Magnum"
+	{
+		"chi"	"马格南手枪"
+	}
+
+	"Chainsaw"
+	{
+		"chi"	"链锯"
+	}
+
+	"Gnome"
+	{
+		"chi"	"地精老头"
+	}
+
+	"Cola Bottles"
+	{
+		"chi"	"可乐"
+	}
+
+	"Fireworks Crate"
+	{
+		"chi"	"烟花"
+	}
+
+	"Gascan"
+	{
+		"chi"	"油桶"
+	}
+
+	"Oxygen Tank"
+	{
+		"chi"	"氧气瓶"
+	}
+
+	"Propane Tank"
+	{
+		"chi"	"煤气罐"
+	}
+
+	"Laser Sight"
+	{
+		"chi"	"激光瞄准器"
+	}
+
+	"Explosive Ammo"
+	{
+		"chi"	"高爆蛋"
+	}
+
+	"Incendiary Ammo"
+	{
+		"chi"	"燃烧蛋"
+	}
+
+	"Explosive Ammo Pack"
+	{
+		"chi"	"高爆蛋包"
+	}
+
+	"Incendiary Ammo Pack"
+	{
+		"chi"	"燃烧蛋包"
+	}
+
+	"Ammo"
+	{
+		"chi"	"补给弹药"
+	}
+}	

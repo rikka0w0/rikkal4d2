@@ -1,0 +1,26 @@
+﻿"Phrases"
+{
+	"ThrownMolotov"
+	{
+	
+		"#format"	"{1:s}"
+		"chi"		"{1} 丢出了一个火瓶!"
+
+	}
+	
+	"BurnedGascan"
+	{
+	
+		"#format"	"{1:s}"
+		"chi"		"{1} 引爆了一个油桶!"
+
+	}
+	
+	"BurnedGascanAsSpitter"
+	{
+	
+		"#format"	"{1:s}"
+		"chi"		"{1} 的痰引燃了油桶!"
+
+	}
+}

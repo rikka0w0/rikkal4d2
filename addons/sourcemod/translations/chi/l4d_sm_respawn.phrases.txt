@@ -1,0 +1,26 @@
+﻿"Phrases"
+{
+	"Usage"
+	{
+		"chi"			"[SM] 用法: sm_respawn <玩家1> [玩家2] ... [玩家N] - 复活所有列出的玩家"
+	}
+	"Respawned target"
+	{
+		"#format"		"{1:s}"
+		"chi"			"[SM] 已复活 '{1}'"
+	}	
+	
+	"Cannot teleport"
+	{
+		"chi"			"[SM] 无法在复活之后传送玩家!"
+	}
+	
+	"Respawn Player"
+	{
+		"chi"			"复活死亡玩家"
+	}
+	
+	"Nobody is dead" {
+		"chi"			"目前没有死亡玩家!"
+	}
+}

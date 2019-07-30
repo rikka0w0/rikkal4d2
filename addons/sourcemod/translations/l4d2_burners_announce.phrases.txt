@@ -1,0 +1,26 @@
+"Phrases"
+{
+	"ThrownMolotov"
+	{
+	
+		"#format"	"{1:s}"
+		"en"		"{1} has thrown a molotov!"
+
+	}
+	
+	"BurnedGascan"
+	{
+	
+		"#format"	"{1:s}"
+		"en"		"{1} has burned a gascan!"
+
+	}
+	
+	"BurnedGascanAsSpitter"
+	{
+	
+		"#format"	"{1:s}"
+		"en"		"{1} has burned a gascan playing spitter!"
+
+	}
+}
