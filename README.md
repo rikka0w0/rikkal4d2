@@ -15,11 +15,12 @@ apt-get install debian-archive-keyring
 
 # Create a non-root user for srcds:
 `useradd -m l4d2`
-Create a bash script (sul4d2.sh) for a quick swiching to that user:
+Swich to that user:
 ```
 cd /home/l4d2
-sudo -u l4d2 bash
+su l4d2
 ```
+Then switch to user "l4d2".
 
 # Setup SteamCMD and srcds:
 ```
@@ -36,6 +37,7 @@ rm steamcmd_linux.tar.gz
 ```
 
 # Use the plugin pack:
+Using user "l4d2", in home directory:
 ```
 ln -s rikkal4d2/sl4d2.sh sl4d2.sh
 ln -s rikkal4d2/ul4d2.sh ul4d2.sh
@@ -44,21 +46,14 @@ chmod +x sl4d2.sh ul4d2.sh
 
 # Install or update l4d2:
 ul4d2.sh:
-```
-cd Steam
-./steamcmd.sh +login anonymous +force_install_dir "l4d2" +app_update 222860 validate +quit
-```
 
 # Install addons:
+Using user "l4d2", in home directory:
 ```
 rm -rfv Steam/l4d2/left4dead2/addons Steam/l4d2/left4dead2/cfg
-ln -s rikkal4d2/addons Steam/l4d2/left4dead2/addons
-ln -s rikkal4d2/cfg Steam/l4d2/left4dead2/cfg
+ln -s ~/rikkal4d2/addons Steam/l4d2/left4dead2/addons
+ln -s ~/rikkal4d2/cfg Steam/l4d2/left4dead2/cfg
 ```
 
 # Start l4d2:
 sl4d2.sh
-```
-cd Steam/l4d2
-./srcds_run -game left4dead2 -port 27015 -insecure -num_edicts 8191 +ip 0.0.0.0 +maxplayers 8 +map c5m1_waterfront +allow_all_bot_survivor_team 1 +sv_gametypes coop
-```
