@@ -4,7 +4,11 @@
 # Server logs
 *.log
 
+# RCON password
+cfg/rconps.cfg
+
 # Compiled plugins (but unused)
 addons/sourcemod/scripting/compiled/
 
 addons/sourcemod/data/sqlite/clientprefs-sqlite.sq3
+
