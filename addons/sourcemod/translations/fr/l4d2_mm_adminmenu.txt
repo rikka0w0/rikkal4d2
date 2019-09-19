@@ -2,22 +2,22 @@
 {
 	"Switch Map/Mission"
 	{
-		"en"		"Switch Map/Mission"
+		"fr"  		"Changer Map/Mission"
 	}
 	
 	"All maps"
 	{
-		"en"		"All maps"
+		"fr"		"Toutes les maps"
 	}
 	
 	"Choose a Map"
 	{
-		"en"		"Choose a Map"
+		"fr"		"Choissisez une map"
 	}
 	
 	"Admin is forcing a map change"
 	{
 		"#format"		"{1:s}"
-		"en"		"An admin changes the map to {1}"
+		"fr"		"Un admin modifie la map pour {1}"
 	}
 }
