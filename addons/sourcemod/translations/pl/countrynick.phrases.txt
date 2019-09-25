@@ -1,0 +1,12 @@
+﻿"Phrases"
+{
+	"Announcer country found"
+	{
+		"pl"		"{1} z {2} dołączył do gry"
+	}
+	
+	"Announcer country not found"
+	{
+		"pl"		"{1} z odległej planety dołączył do gry"
+	}
+}

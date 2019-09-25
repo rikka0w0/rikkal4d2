@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"Announcer country found"
+	{
+		"#format"	"{1:N},{2:s}"
+		"chi"		"来自{2}的{1}加入游戏"
+	}
+	
+	"Announcer country not found"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} 从未知星球而来"
+	}
+}
