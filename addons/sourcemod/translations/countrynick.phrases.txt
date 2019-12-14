@@ -9,6 +9,7 @@
 	"Announcer country not found"
 	{
 		"#format"	"{1:N}"
-		"en"		"{1} from a distant planet joined the game"
+		//"en"		"{1} from a distant planet joined the game"
+		"en"		"{1} from the Soviet Union joined the name"
 	}
 }

@@ -1,0 +1,4 @@
+// The following maps will be treated as finale maps in Coop mode. Example: c1m1_hotel. Do not delete this line!
+l4d2_tank_challenge
+l4d2_tank_challenge_15_rounds
+l4d2_tank_challenge_20_rounds
