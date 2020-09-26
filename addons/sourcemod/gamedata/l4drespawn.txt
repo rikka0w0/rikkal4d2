@@ -1,3 +1,4 @@
+// Warning: this is not updated for the latest L4D2 update!
 "Games"
 {
     "left4dead"

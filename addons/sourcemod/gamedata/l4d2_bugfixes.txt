@@ -27,8 +27,8 @@
 			}
 			"SurvivorCounters"
 			{
-				"windows"	"1056"
-				"linux"		"1048"
+				"windows"	"1072"
+				"linux"		"1068"
 			}		
 		}
 		"Signatures"
@@ -78,6 +78,12 @@
 				"library"	"server"
 				"windows"   "\x57\x8b\xf9\xe8****\x84\xc0\x75*\xf7\x05*******\x00\x56\x74*\xbe"
 				"linux"		"@_ZNK9CDirector15AreTeamsFlippedEv"
+			}
+			"CDirector::AllowWitchesInCheckpoints"
+			{
+				"library"	"server"
+				"windows"	"\x56\x8B\xF1\xE8\x2A\x2A\x2A\x2A\x84\xC0\x75\x2A\xE8"
+				"linux"		"@_ZNK9CDirector25AllowWitchesInCheckpointsEv"
 			}
 		}
 	}

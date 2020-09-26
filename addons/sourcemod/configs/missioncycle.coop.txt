@@ -52,3 +52,5 @@ urbanflight
 VC1ub5
 VC2xy6
 zmb13
+TankChallenge
+L4D2C14
