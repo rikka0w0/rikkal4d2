@@ -12,6 +12,7 @@ L4D2C10
 L4D2C11
 L4D2C12
 L4D2C13
+L4D2C14
 // 3-rd maps(Do not delete/modify this line!)
 QuestionableEthics
 QuestionableEthicsAlphaTest
@@ -53,4 +54,3 @@ VC1ub5
 VC2xy6
 zmb13
 TankChallenge
-L4D2C14
