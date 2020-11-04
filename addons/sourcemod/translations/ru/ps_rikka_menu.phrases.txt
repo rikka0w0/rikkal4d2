@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"Rikka Menu"
+	{
+		"ru"			"Меню Rikka"
+	}
+	"Melee Enlarge"
+	{
+		"ru"			"Увеличить ближний бой"
+	}
+	"Melee Enlarge Desc"
+	{
+		"ru"			"Большое холодное оружие может отбросить танка!"
+	}
+	"No melee weapon"
+	{
+		"ru"			"У вас нет холодного оружия!"
+	}
+	"Respawn"
+	{
+		"ru"			"Возродить"
+	}	
+	"You are not dead"
+	{
+		"ru"			"Вы не умерли!"	
+	}
+}

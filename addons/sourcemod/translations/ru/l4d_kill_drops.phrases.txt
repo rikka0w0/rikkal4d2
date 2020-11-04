@@ -1,0 +1,67 @@
+﻿"Phrases"
+{
+	"Witch"
+	{
+		"ru"			"Ведьма"
+	}
+	
+	"Finally killed by"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"{1} наконец убит игроком {2}"
+	}
+	
+	"Incapacitated"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"{1} выводит из строя {2}"
+	}
+	
+	"Is incapacitated"
+	{
+		"#format"		"{1:s}"
+		"ru"			"{1} выведен из строя"
+	}
+	
+	"Killed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"{1} убил {2}"
+	}
+
+	"Killed2"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"{1} ------> {2}"
+	}
+	
+	"Headshot"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"{1} убит в голову {2}"
+	}
+	
+	"Headshot2"
+	{
+		"#format"		"{1:s},{2:s}"
+		"ru"			"{1} -убит-в-голову-> {2}"
+	}
+	
+	"Is dead"
+	{
+		"#format"		"{1:s}"
+		"ru"			"{1} мёртв"
+	}
+	
+	"Suicide"
+	{
+		"#format"		"{1:s}"
+		"ru"			"{1} убил сам себя"
+	}
+	
+	"Dropped something"
+	{
+		"#format"		"{1:s}"
+		"ru"			"{1} уронил что-то"
+	}	
+}
