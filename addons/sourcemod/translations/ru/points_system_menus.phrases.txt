@@ -1,0 +1,387 @@
+"Phrases"
+{
+	"Weapons"
+	{
+		"ru"	"Оружие"
+	}
+
+	"Upgrades"
+	{
+		"ru"	"Улучшения"
+	}	
+
+	"Health"
+	{
+		"ru"	"Предметы здоровья"
+	}	
+
+	"Heal"
+	{
+		"ru"	"Лечение"
+	}	
+
+	"Suicide"
+	{
+		"ru"	"Суицид"
+	}	
+
+	"Boomer"
+	{
+		"ru"	"Толстяк"
+	}	
+
+	"Spitter"
+	{
+		"ru"	"Плевальщица"
+	}	
+
+	"Smoker"
+	{
+		"ru"	"Курильщик"
+	}	
+
+	"Hunter"
+	{
+		"ru"	"Охотник"
+	}	
+
+	"Charger"
+	{
+		"ru"	"Громила"
+	}	
+
+	"Jockey"
+	{
+		"ru"	"Жокей"
+	}	
+
+	"Tank"
+	{
+		"ru"	"Танк"
+	}	
+
+	"Witch Bride"
+	{
+		"ru"	"Ведьма-невеста"
+	}	
+
+	"Witch"
+	{
+		"ru"	"Ведьма"
+	}	
+
+	"Horde"
+	{
+		"ru"	"Орда"
+	}	
+
+	"Mob"
+	{
+		"ru"	"Моб"
+	}	
+
+	"Uncommon Mob"
+	{
+		"ru"	"Необычный моб"
+	}	
+
+	"Melee"
+	{
+		"ru"	"Ближний бой"
+	}	
+
+	"Snipers"
+	{
+		"ru"	"Снайперские"
+	}	
+
+	"Rifles"
+	{
+		"ru"	"Винтовки"
+	}	
+
+	"Shotguns"
+	{
+		"ru"	"Дробовики"
+	}	
+
+	"SMGs"
+	{
+		"ru"	"ПП"
+	}	
+
+	"Throwables"
+	{
+		"ru"	"Метательные"
+	}	
+
+	"Misc"
+	{
+		"ru"	"Другое"
+	}	
+
+	"cricket_bat"
+	{
+		"ru"	"Бита для крикета"
+	}	
+
+	"crowbar"
+	{
+		"ru"	"Фомка"
+	}	
+
+	"electric_guitar"
+	{
+		"ru"	"Электрогитара"
+	}
+
+	"fireaxe"
+	{
+		"ru"	"Пожарный топор"
+	}	
+
+	"katana"
+	{
+		"ru"	"Катана"
+	}	
+
+	"knife"
+	{
+		"ru"	"Нож"
+	}
+
+	"hunting_knife"
+	{
+		"ru"	"Нож"
+	}
+
+	"riotshield"
+	{
+		"ru"	"Полицейский щит"
+	}	
+
+	"baseball_bat"
+	{
+		"ru"	"Бейсбольная бита"
+	}	
+
+	"frying_pan"
+	{
+		"ru"	"Сковорода"
+	}	
+
+	"golfclub"
+	{
+		"ru"	"Клюшка для гольфа"
+	}	
+
+	"machete"
+	{
+		"ru"	"Мачете"
+	}	
+
+	"tonfa"
+	{
+		"ru"	"Тонфа"
+	}	
+
+	"Hunting Rifle"
+	{
+		"ru"	"Охотничья винтовка"
+	}	
+
+	"Military Sniper"
+	{
+		"ru"	"Military Sniper"
+	}	
+
+	"AWP"
+	{
+		"ru"	"AWP"
+	}	
+
+	"Scout Sniper"
+	{
+		"ru"	"Scout Sniper"
+	}	
+
+	"M60"
+	{
+		"ru"	"M60"
+	}	
+
+	"M16"
+	{
+		"ru"	"M16"
+	}	
+
+	"SCAR"
+	{
+		"ru"	"SCAR"
+	}	
+
+	"AK-47"
+	{
+		"ru"	"AK-47"
+	}	
+
+	"SG552"
+	{
+		"ru"	"SG552"
+	}
+
+	"Auto Shotgun"
+	{
+		"ru"	"Автоматический дробовик"
+	}
+
+	"Chrome Shotgun"
+	{
+		"ru"	"Хромированный дробовик"
+	}
+
+	"Spas Shotgun"
+	{
+		"ru"	"Боевой дробовик"
+	}
+
+	"Pump Shotgun"
+	{
+		"ru"	"Помповый дробовик"
+	}
+
+	"SMG"
+	{
+		"ru"	"Пистолет-пулемёт"
+	}
+
+	"Silenced SMG"
+	{
+		"ru"	"Пистолет-пулемёт с глушителем"
+	}
+
+	"MP5"
+	{
+		"ru"	"MP5"
+	}
+
+	"First Aid"
+	{
+		"ru"	"Аптечка"
+	}
+
+	"Defib2"
+	{
+		"ru"	"Дефибриллятор"
+	}
+
+	"Pills"
+	{
+		"ru"	"Таблетки"
+	}
+
+	"Adrenaline"
+	{
+		"ru"	"Шприц с адреналином"
+	}
+
+	"Full Heal"
+	{
+		"ru"	"Полное лечение"
+	}
+
+	"Molotov"
+	{
+		"ru"	"Молотов"
+	}
+
+	"Pipe Bomb"
+	{
+		"ru"	"Самодельная бомба"
+	}
+
+	"Bile Bomb"
+	{
+		"ru"	"Рвотная бомба"
+	}
+
+	"Grenade Launcher"
+	{
+		"ru"	"Гранатомёт"
+	}
+
+	"Pistol"
+	{
+		"ru"	"Пистолет"
+	}
+
+	"Magnum"
+	{
+		"ru"	"Пистолет «Магнум»"
+	}
+
+	"Chainsaw"
+	{
+		"ru"	"Бензопила"
+	}
+
+	"Gnome"
+	{
+		"ru"	"Гном"
+	}
+
+	"Cola Bottles"
+	{
+		"ru"	"Кола"
+	}
+
+	"Fireworks Crate"
+	{
+		"ru"	"Ящик с фейерверками"
+	}
+
+	"Gascan"
+	{
+		"ru"	"Канистра"
+	}
+
+	"Oxygen Tank"
+	{
+		"ru"	"Кислородный бак"
+	}
+
+	"Propane Tank"
+	{
+		"ru"	"Пропановый бак"
+	}
+
+	"Laser Sight"
+	{
+		"ru"	"Лазерный целеуказатель"
+	}
+
+	"Explosive Ammo"
+	{
+		"ru"	"Разрывные боеприпасы"
+	}
+
+	"Incendiary Ammo"
+	{
+		"ru"	"Зажигательные боеприпасы"
+	}
+
+	"Explosive Ammo Pack"
+	{
+		"ru"	"Коробка с разрывными боеприпасами"
+	}
+
+	"Incendiary Ammo Pack"
+	{
+		"ru"	"Коробка с зажигательными боеприпасами"
+	}
+
+	"Ammo"
+	{
+		"ru"	"Боеприпасы"
+	}
+}	
