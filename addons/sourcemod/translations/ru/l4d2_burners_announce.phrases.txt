@@ -1,0 +1,26 @@
+"Phrases"
+{
+	"ThrownMolotov"
+	{
+	
+		"#format"	"{1:s}"
+		"ru"		"{1} бросил молотов!"
+
+	}
+	
+	"BurnedGascan"
+	{
+	
+		"#format"	"{1:s}"
+		"ru"		"{1} поджёг газовый баллон!"
+
+	}
+	
+	"BurnedGascanAsSpitter"
+	{
+	
+		"#format"	"{1:s}"
+		"ru"		"{1} поджёг газовый баллон, играя за плевальщицу!"
+
+	}
+}
