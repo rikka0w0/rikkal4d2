@@ -39,13 +39,12 @@ rm steamcmd_linux.tar.gz
 # Use the plugin pack:
 Using user "l4d2", in home directory:
 ```
-ln -s rikkal4d2/sl4d2.sh sl4d2.sh
-ln -s rikkal4d2/ul4d2.sh ul4d2.sh
-chmod +x sl4d2.sh ul4d2.sh
+ln -s rikkal4d2/l4d2.sh l4d2.sh
+chmod +x l4d2.sh
 ```
 
 # Install or update l4d2:
-ul4d2.sh:
+`./l4d2.sh update`
 
 # Install addons:
 Using user "l4d2", in home directory:
@@ -56,4 +55,4 @@ ln -s ~/rikkal4d2/cfg Steam/l4d2/left4dead2/cfg
 ```
 
 # Start l4d2:
-sl4d2.sh
+`./l4d2.sh`
