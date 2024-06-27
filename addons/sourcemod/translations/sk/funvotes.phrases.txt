@@ -1,8 +1,33 @@
 "Phrases"
 {
-	"Alltalk vote"
+	"Initiated Vote Gravity"
 	{
-		"sk"		"Alltalk hlasovanie"
+		"sk"		"Hlasovanie pre zmenu gravitácie bolo spustené."
+	}
+
+	"Initiated Vote Burn"
+	{
+		"sk"		"Hlasovanie pre podpálenie hráča {1} bolo spustené."
+	}
+
+	"Initiated Vote Slay"
+	{
+		"sk"		"Hlasovanie pre zabitie hráča {1} bolo spustené."
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"sk"		"Hlasovanie pre alltalk bolo spustené."
+	}
+
+	"Initiated Vote FF"
+	{
+		"sk"		"Hlasovanie pre zranenie priateľských hráčov bolo spustené."
+	}
+
+	"Gravity Vote"
+	{
+		"sk"		"Hlasovanie pre zmenu gravitácie: {1}"
 	}
 
 	"Change Gravity To"
@@ -10,59 +35,9 @@
 		"sk"		"Zmeniť gravitáciu na {1} ?"
 	}
 
-	"Initiated Vote Alltalk"
-	{
-		"sk"		"Spustené hlasovanie alltalk"
-	}
-
-	"Initiated Vote FF"
-	{
-		"sk"		"Spustené hlasovanie na friendly fire."
-	}
-
-	"Initiated Vote Gravity"
-	{
-		"sk"		"Spustené hlasovanie gravitácie."
-	}
-
-	"Initiated Vote Slay"
-	{
-		"sk"		"Spustené hlasovanie na zabitie hráča {1}."
-	}
-
-	"Slayed player"
-	{
-		"sk"		"Zabitý hráč '{1}'"
-	}
-
-	"Vote FF"
-	{
-		"sk"		"Hlasovanie Friendly Fire"
-	}
-
-	"Votealltalk Off"
-	{
-		"sk"		"Vypnút alltalk ? {1}"
-	}
-
-	"Votealltalk On"
-	{
-		"sk"		"Zapnúť alltalk ? {1}  "
-	}
-
 	"Voteburn player"
 	{
 		"sk"		"Podpáliť hráča {1}?"
-	}
-
-	"Voteff Off"
-	{
-		"sk"		"Vypnúť friendly fire? {1}"
-	}
-
-	"Voteff On"
-	{
-		"sk"		"Zapnúť friendly fire? {1}"
 	}
 
 	"Voteslay Player"
@@ -70,29 +45,54 @@
 		"sk"		"Zabiť hráča {1}?"
 	}
 
-	"Burn vote"
+	"Votealltalk Off"
 	{
-		"sk"		"Hlasovať za podpálenie"
+		"sk"		"Vypnúť alltalk? {1}"
+	}
+
+	"Votealltalk On"
+	{
+		"sk"		"Zapnúť alltalk? {1}"
+	}
+
+	"Voteff Off"
+	{
+		"sk"		"Vypnúť zranenie priateľských hráčov? {1}"
+	}
+
+	"Voteff On"
+	{
+		"sk"		"Zapnúť zranenie priateľských hráčov? {1}"
 	}
 
 	"Gravity vote"
 	{
-		"sk"		"Hlasovanie o zmenu gravitácie"
+		"sk"		"Hlasovanie pre zmenu gravitácie"
 	}
 
-	"Gravity Vote"
+	"Vote FF"
 	{
-		"sk"		"Hlasovanie o zmenu gravitácie: {1}"
+		"sk"		"Hlasovanie pre zranenie priateľských hráčov"
 	}
 
-	"Initiated Vote Burn"
+	"Burn vote"
 	{
-		"sk"		"Spustené hlasovanie na podpálenie hráča {1}."
+		"sk"		"Hlasovanie za podpálenie hráča"
+	}
+
+	"Alltalk vote"
+	{
+		"sk"		"Alltalk hlasovanie"
 	}
 
 	"Slay vote"
 	{
-		"sk"		"Hlasovanie za zabitie hráča "
+		"sk"		"Hlasovanie pre zabitie hráča"
+	}
+
+	"Slayed player"
+	{
+		"sk"		"Hráč '{1} bol zabitý"
 	}
 
 }

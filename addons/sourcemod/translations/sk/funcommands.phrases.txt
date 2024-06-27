@@ -1,13 +1,43 @@
 "Phrases"
 {
-	"Blind player"
-	{
-		"sk"		"Oslepiť hráča"
-	}
-
 	"Burn player"
 	{
 		"sk"		"Podpáliť hráča"
+	}
+
+	"FireBomb player"
+	{
+		"sk"		"Ohnivá bomba na hráča"
+	}
+
+	"Freeze player"
+	{
+		"sk"		"Zmraziť hráča"
+	}
+
+	"FreezeBomb player"
+	{
+		"sk"		"Zmrazovacia bomba na hráča"
+	}
+
+	"TimeBomb player"
+	{
+		"sk"		"Časovaná bomba na hráča"
+	}
+
+	"Beacon player"
+	{
+		"sk"		"Zvýrazniť hráča"
+	}
+
+	"NoClip player"
+	{
+		"sk"		"Zapnúť NoClip pre hráča"
+	}
+
+	"Blind player"
+	{
+		"sk"		"Oslepiť hráča"
 	}
 
 	"Drug player"
@@ -15,34 +45,34 @@
 		"sk"		"Nadrogovať hráča"
 	}
 
-	"Freeze player"
+	"Gravity player"
 	{
-		"sk"		"Zamraziť hráča"
+		"sk"		"Zmeniť gravitáciu hráča"
+	}
+
+	"Blind amount"
+	{
+		"sk"		"Koľko oslepiť?"
 	}
 
 	"Fully blind"
 	{
-		"sk"		"Oslepiť úplne"
+		"sk"		"Úplne slepý"
 	}
 
-	"Froze target"
+	"Half blind"
 	{
-		"sk"		"zamrazil {1}. "
+		"sk"		"Poloslepý"
 	}
 
-	"Gravity High"
+	"No blind"
 	{
-		"sk"		"Vysoká gravitácia"
+		"sk"		"Zrušiť oslepenie"
 	}
 
-	"Gravity Low"
+	"Gravity amount"
 	{
-		"sk"		"Nízka gravitácia"
-	}
-
-	"Gravity Normal"
-	{
-		"sk"		"Normálna gravitácia"
+		"sk"		"Hodnota gravitácie?"
 	}
 
 	"Gravity Very High"
@@ -50,24 +80,54 @@
 		"sk"		"Veľmi vysoká gravitácia"
 	}
 
+	"Gravity High"
+	{
+		"sk"		"Vysoká gravitácia"
+	}
+
+	"Gravity Normal"
+	{
+		"sk"		"Normálna gravitácia"
+	}
+
+	"Gravity Low"
+	{
+		"sk"		"Nízka gravitácia"
+	}
+
 	"Gravity Very Low"
 	{
 		"sk"		"Veľmi nízka gravitácia"
 	}
 
-	"Gravity player"
+	"Set target on fire"
 	{
-		"sk"		"Zmeniť gravitáciu hráča"
+		"sk"		"{1} bol podpálený."
 	}
 
-	"Half blind"
+	"Toggled FireBomb on target"
 	{
-		"sk"		"Oslepiť na 50%"
+		"sk"		"aplikovaná ohňivá bomba na {1}."
 	}
 
-	"Set blind on target"
+	"Froze target"
 	{
-		"sk"		"oslepil {1}. "
+		"sk"		"{1} bol zmrazený."
+	}
+
+	"Toggled FreezeBomb on target"
+	{
+		"sk"		"aplikovaná mraziaca bomba na {1}."
+	}
+
+	"Toggled beacon on target"
+	{
+		"sk"		"aplikované zvýraznenie na hráča {1}."
+	}
+
+	"Toggled TimeBomb on target"
+	{
+		"sk"		"aplikovaná časovaná bomba na {1}."
 	}
 
 	"Toggled noclip on target"
@@ -80,64 +140,19 @@
 		"sk"		"aplikované drogy na {1}."
 	}
 
-	"Toggled TimeBomb on target"
+	"Set blind on target"
 	{
-		"sk"		"aplikovaná časovaná bomba na {1}."
+		"sk"		"{1} bol oslepený."
 	}
 
-	"Toggled FreezeBomb on target"
+	"Set gravity on target"
 	{
-		"sk"		"aplikovaná mraziaca bomba na {1}."
-	}
-
-	"Toggled FireBomb on target"
-	{
-		"sk"		"aplikovaná ohňivá bomba na {1}."
-	}
-
-	"TimeBomb player"
-	{
-		"sk"		"Časovaná bomba"
+		"sk"		"Nastavená gravitácia hráča {1}."
 	}
 
 	"Till Explodes"
 	{
 		"sk"		"{2} sekúnd kým {1} vybuchne."
-	}
-
-	"Set target on fire"
-	{
-		"sk"		"{1} podpálený."
-	}
-
-	"Gravity amount"
-	{
-		"sk"		"Hodnota gravitácie?"
-	}
-
-	"FreezeBomb player"
-	{
-		"sk"		"Zmrazovacia bomba"
-	}
-
-	"FireBomb player"
-	{
-		"sk"		"Ohňivá bomba"
-	}
-
-	"Blind amount"
-	{
-		"sk"		"Koľko oslepiť?"
-	}
-
-	"Beacon player"
-	{
-		"sk"		"Zvýrazniť hráča"
-	}
-
-	"Toggled beacon on target"
-	{
-		"sk"		"aplikované zvýraznenie na hráča {1}."
 	}
 
 	"Unfrozen"
@@ -148,21 +163,6 @@
 	"You will be unfrozen"
 	{
 		"sk"		"Budeš odmrazený za {1} sekúnd."
-	}
-
-	"NoClip player"
-	{
-		"sk"		"Zapnúť NoClip pre hráča"
-	}
-
-	"Set gravity on target"
-	{
-		"sk"		"Nastavená gravitácia hráča {1}."
-	}
-
-	"No blind"
-	{
-		"sk"		"Zrušiť oslepenie"
 	}
 
 }

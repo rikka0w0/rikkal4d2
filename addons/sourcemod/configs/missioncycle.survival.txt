@@ -7,6 +7,12 @@ L4D2C5
 L4D2C6
 L4D2C7
 L4D2C8
+L4D2C9
+L4D2C10
+L4D2C11
+L4D2C12
+L4D2C13
+L4D2C14
 // 3-rd maps(Do not delete/modify this line!)
 BloodTracks
 CrashBandicootTheReturn
@@ -22,4 +28,3 @@ YamaMSE
 NeverEndingWar
 ravenholmwar2
 urbanflight
-L4D2C14

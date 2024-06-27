@@ -54,3 +54,4 @@ VC1ub5
 VC2xy6
 zmb13
 TankChallenge
+Chernobyl
