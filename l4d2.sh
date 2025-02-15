@@ -36,11 +36,18 @@ if [[ "$1" == "update" ]]; then
 	cd $STEAM_PATH
 	echo "Updating the server..."
 	echo
-	./steamcmd.sh +runscript $UPDATE_SCRIPT
+	./steamcmd.sh +@sSteamCmdForcePlatformType linux +runscript $UPDATE_SCRIPT
+elif [[ "$1" == "install" ]]; then
+	# Install the l4d2 server for the first time, update is required afterwards
+	cd $STEAM_PATH
+	echo "Installing the server..."
+	echo
+	./steamcmd.sh +@sSteamCmdForcePlatformType windows +runscript $UPDATE_SCRIPT
 else
 	# Start the l4d2 server
 	cd $STEAM_PATH/l4d2
 	echo "Starting the server..."
 	echo
 	./srcds_run -game left4dead2 -port 27015 -insecure -num_edicts 8191 +ip 0.0.0.0 +maxplayers 8 +map c5m1_waterfront +allow_all_bot_survivor_team 1 +sv_gametypes coop -autoupdate $UPDATE_ARGS
+	# ./srcds_run -game left4dead2 -insecure -num_edicts 8191 +net_public_adr $PUB_IP +hostport 60459 +ip 0.0.0.0 +maxplayers 8 +map c5m1_waterfront +allow_all_bot_survivor_team 1 +sv_gametypes coop -autoupdate $UPDATE_ARGS
 fi

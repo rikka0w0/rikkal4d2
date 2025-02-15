@@ -13,6 +13,14 @@ apt-get update
 apt-get install debian-archive-keyring
 ```
 
+# Debian 12
+Enable 32-bit support for SteamCmd and L4d2:
+```sh
+apt update
+dpkg --add-architecture i386
+apt install libc6:i386
+```
+
 # Create a non-root user for srcds:
 `useradd -m l4d2`
 Swich to that user:
@@ -36,6 +44,8 @@ tar -xvzf steamcmd_linux.tar.gz
 rm steamcmd_linux.tar.gz
 ```
 
+**`lib32gcc1` was renamed to `lib32gcc-s1` on Debian 12.**
+
 # Use the plugin pack:
 Using user "l4d2", in home directory:
 ```
@@ -43,7 +53,12 @@ ln -s rikkal4d2/l4d2.sh l4d2.sh
 chmod +x l4d2.sh
 ```
 
-# Install or update l4d2:
+# Install l4d2 for the first time:
+`./l4d2.sh install`
+
+https://github.com/ValveSoftware/steam-for-linux/issues/11522#issuecomment-2512232264
+
+# Update l4d2:
 `./l4d2.sh update`
 
 # Install addons:
