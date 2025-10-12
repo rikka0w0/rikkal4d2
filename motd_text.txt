@@ -1,0 +1,17 @@
+Rikka's L4D2 Server (Singapore)						六花家的求生服（新加坡）
+Server Address: sg.cszombie.dedyn.io:27015				服务器地址 sg.cszombie.dedyn.io:27015
+Discord: https://discord.gg/9d2xZpyzRM					QQ裙: 641433181
+
+Chat Commands :									聊天区命令
+!buy		Shop menu									!buy 商店
+!csm		Skin menu									!csm 皮肤菜单
+!lmc		Another skin menu							!lmc 另一种皮肤菜单
+!drop	Throw away whatever on your hand				!drop 扔东西
+!on14	Enable 10 special infected mode					!on14 10特感模式
+!on142	Enable 8 special infected mode					!on142 8特感模式
+!off14	Disable hardcore special infected mode			!off14 关闭多特感模式
+
+Notes:											小技巧:
+1. Press R to give meds, defibs, or grenades to teammates		按R递东西
+2. Hold CTRL to help you self							倒地时按CTRL自己起来
+3. Blunt weapons can knock back tanks					钝器可击飞坦克

@@ -1,0 +1,71 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat" "{default}Server address: {engine 5} sg.cszombie.dedyn.io:27015"
+    }
+    "2"
+    {
+        "chat" "{Green}Server owner: {default}{yellow}Rikka0_0(六花酱)"
+    }
+    "3"
+    {
+        "chat" "{yellow}[Tip] {default}Kill zombies → earn points → buy & upgrade weapons! Type {yellow}!buy{default} to open the shop."
+    }
+    "4"
+    {
+        "chat" "{default}多杀僵尸然后就可以买东东辣w买东西指令:{yellow}!buy"
+    }
+    "5"
+    {
+        "chat" "{default}Type {yellow}!csm{default} in chat to choose a skin."
+    }
+    "6"
+    {
+        "chat" "{default}在聊天窗口中打{yellow}!csm{default}可以选择皮肤"
+    }
+    "7"
+    {
+        "chat" "{yellow}[Tip] {default}Type {yellow}!drop{default} to drop your current item."
+    }	
+    "8"
+    {
+        "chat" "{yellow}[小提示] {default}在聊天窗口中输入{yellow}!drop{default}可以扔掉手中的东西"
+    }
+    "9"
+    {
+        "chat" "{yellow}[Tip] {default}Press {yellow}R{default} to give meds, defibs, or grenades to teammates."
+    }
+    "10"
+    {
+        "chat" "{yellow}[小提示] {default}按{yellow}R{default}可以给队友医疗包,电击器还有各种雷子"
+    }
+    "11"
+    {
+        "chat" "{default}本服QQ裙: {engine 5} 641433181,小技巧之类的参见裙文件w"
+    }
+    "12"
+    {
+        "chat" "{yellow}女装{default}的孩纸会得到腐竹的宠爱哦ww"
+    }
+    "13" {
+        "chat" "Join our Discord: {yellow}https://discord.gg/9d2xZpyzRM{default}"
+    }
+}

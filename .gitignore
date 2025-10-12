@@ -15,5 +15,4 @@ addons/sourcemod/scripting/compiled/
 addons/sourcemod/data/sqlite/clientprefs-sqlite.sq3
 
 addons/readme.txt
-addons/sourcemod/configs/advertisements.txt
-addons/sourcemod/configs/hostname/
+

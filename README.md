@@ -65,8 +65,10 @@ https://github.com/ValveSoftware/steam-for-linux/issues/11522#issuecomment-25122
 Using user "l4d2", in home directory:
 ```
 rm -rfv Steam/l4d2/left4dead2/addons Steam/l4d2/left4dead2/cfg
+rm Steam/l4d2/left4dead2/motd_text.txt
 ln -s ~/rikkal4d2/addons Steam/l4d2/left4dead2/addons
 ln -s ~/rikkal4d2/cfg Steam/l4d2/left4dead2/cfg
+ln -s ~/rikkal4d2/motd_text.txt Steam/l4d2/left4dead2/motd_text.txt
 ```
 
 # Start l4d2:
